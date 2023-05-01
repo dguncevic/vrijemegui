@@ -1,0 +1,6 @@
+com\mycompany\beans\Main.class
+module-info.class
+com\mycompany\vrijemegui\Updater.class
+com\mycompany\beans\Cities.class
+com\mycompany\beans\weather.class
+com\mycompany\beans\MyWeather.class
